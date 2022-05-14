@@ -1,6 +1,6 @@
 # PollenClassificationChallenge
 
-ICPR 2020 Pollen classification challenge
+ICPR 2020 Pollen classification challenge. Project dates back to August 2020.
 
 Trying Graph convolution networks for 2D image classification tasks
 
